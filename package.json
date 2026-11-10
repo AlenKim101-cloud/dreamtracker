@@ -1,0 +1,10 @@
+{
+  "name": "dreamtracker-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix dreamtracker-app start",
+    "build": "npm --prefix dreamtracker-app run build",
+    "test": "npm --prefix dreamtracker-app test"
+  }
+}
